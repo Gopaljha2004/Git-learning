@@ -5,3 +5,11 @@ const info = {
     age:20,
     place:"hyderabad"
 }
+
+console.log(info);
+
+
+const logo = {
+    brand:"Hydro",
+    colors:"red",
+}
