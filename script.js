@@ -13,3 +13,10 @@ const logo = {
     brand:"Hydro",
     colors:"red",
 }
+
+console.log("its master changes");
+const master = {
+    master:"git_branch",
+    log:"git log --online",
+    commit:"commited"
+}
