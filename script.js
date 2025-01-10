@@ -14,9 +14,18 @@ const logo = {
     colors:"red",
 }
 
+
+// payment code
+const  payment = {
+    id:1,
+    name:"Gopal",
+    money:2000,
+}
+
 console.log("its master changes");
 const master = {
     master:"git_branch",
     log:"git log --online",
     commit:"commited"
 }
+
