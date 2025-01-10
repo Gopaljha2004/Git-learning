@@ -34,3 +34,6 @@ function greet(){
 }
 
 greet();
+
+
+console.log("Code fixing done..")
